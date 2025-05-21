@@ -1,3 +1,7 @@
+# 🧠 Brainwave – AI Chatbot Business Website
+
+A sleek, modern, and fully responsive business website for an AI chatbot service, built using **React.js**, **Tailwind CSS**, and **Framer Motion**. This project focuses on clean UI/UX design, smooth animations, and mobile-first responsiveness.
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Vite
